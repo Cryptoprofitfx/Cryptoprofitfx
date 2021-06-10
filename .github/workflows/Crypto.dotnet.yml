@@ -2,7 +2,7 @@ name:cryptoprofitfx .NET
 
 on:*google chrome*
   push:redirect
-    branches: [ main ]success
+    branches: [ main ]Github
   pull_request:progressing
     branches: [ main ]
 
